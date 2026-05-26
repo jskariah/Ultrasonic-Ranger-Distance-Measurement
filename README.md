@@ -4,8 +4,6 @@
 
 This project is an embedded distance measurement system built for the TM4C/Tiva C LaunchPad. It uses a Grove ultrasonic ranger sensor to measure distance by sending a trigger pulse and capturing the returned echo pulse using a hardware timer interrupt.
 
-The project was created for ECE 266 Lab 8: Distance Measurement.
-
 ## Features
 
 - Ultrasonic ranger distance measurement
@@ -154,4 +152,4 @@ Potential future improvements include:
 
 Created by Justin Skariah.
 
-Developed for ECE 266 Lab 8.
+Developed for ECE 266
